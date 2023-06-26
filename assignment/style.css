@@ -1,0 +1,23 @@
+body {
+  background-color: blue;
+}
+
+header {
+  color: brown;
+  background-color: aquamarine;
+}
+
+h2 {
+  color: aquamarine;
+  background-color: blueviolet;
+}
+
+h3 {
+  color: magenta;
+  background-color: burlywood;
+}
+
+img {
+
+  max-width: 400px;
+}
